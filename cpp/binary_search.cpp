@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-
+#include <conio.h>
 // A recursive binary search algorithm.
 // It returns location of x in a given array arr[l..r] is present, otherwise -1
 int binarySearch(int arr[], int l, int r, int x)
