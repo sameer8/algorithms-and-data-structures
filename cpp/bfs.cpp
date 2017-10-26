@@ -34,6 +34,7 @@ public:
 };
 
 // Perform BFS on graph starting from vertex v
+// perform bfs
 int BFS(Graph const &graph, int v, vector<bool> &discovered)
 {
 	// create a queue used to do BFS
