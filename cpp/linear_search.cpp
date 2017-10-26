@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <stdlib.h>
-
+#include<conio.h>
 using namespace std;
 
 int linear_search(int arr[], int ele);
