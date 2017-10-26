@@ -11,7 +11,7 @@ namespace algo {
         int mid = (left + right) / 2;
         int left_pos = left;
         int right_pos = mid + 1;
-
+// merge sort
         while (left_pos <= mid && right_pos <= right) {
             if (range[left_pos] < range[right_pos]) {
                 temp.push_back(range[left_pos++]);
