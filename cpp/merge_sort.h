@@ -1,6 +1,6 @@
 #ifndef ALGORITHMS_MERGE_SORT_H__
 #define ALGORITHMS_MERGE_SORT_H__
-
+#include <vector>
 namespace algo {
 
     template <typename Comparable>
