@@ -2,7 +2,7 @@
 #define ALGORITHMS_QUICK_SORT_H__
 
 #include <istream>
-#include <vector>
+#include <conio.h>
 
 namespace algo {
     using namespace std;
