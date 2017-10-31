@@ -1,5 +1,5 @@
 # Algorithms and Data Structures
-For Hacktoberfest 2017!
+
 
 ### About
 Consists of data-structures and algorithms language wise.
